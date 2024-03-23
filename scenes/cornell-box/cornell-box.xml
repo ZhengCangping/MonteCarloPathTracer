@@ -1,0 +1,11 @@
+# camera
+type perspective
+width 1024
+height 1024
+fovy 39.3077
+eye 278.0 273.0 -800.0
+lookat 278.0 273.0 -799.0
+up 0 1 0
+
+# light
+mtlname Light 34.0 24.0 8.0
