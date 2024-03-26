@@ -117,7 +117,7 @@ render loop前总耗时：0.63s
 面数：592188  
 读取场景信息耗时：28.22s  
 构建BVH耗时：121.78s  
-render loop前总耗时：151.89s 
-图像分辨率：512x512
-平均绘制一帧耗时：1.9s  
+render loop前总耗时：151.89s   
+图像分辨率：512x512  
+平均绘制一帧耗时：1.9s    
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/cd450ed790854453b206eb6246c2edb9.bmp)
