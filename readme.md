@@ -3,7 +3,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/cd450ed790854453b206eb6246c2edb9.bmp)
 #  0 运行环境
 IDE：Visual Studio 2019  
-GPU：NVIDIA 2060  
+GPU：NVIDIA 2060 super  
 OpenGL+GLFW+glm  
 环境配置：  
 将项目的include文件夹添加到vs项目属性页的VC++目录-包含目录和C/C++-附加包含目录里。
